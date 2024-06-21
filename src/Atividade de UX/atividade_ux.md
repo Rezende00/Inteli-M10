@@ -203,11 +203,7 @@ Para visualização dos testes qualitativos feitos, a partir do template disponi
 Primeiramente, a partir dos insights obtidos nos testes de usabilidade, fica claro que a lentidão no carregamento, o recarregamento da tela e a falta de destaque nas promoções são problemas significativos que afetam a experiência do usuário no Zé Delivery. Porém, para dois desses problemas, a lentidão e o recarregamento, a solução é mais técnica e envolve a otimização do aplicativo. Portanto, para esta proposta de melhoria, vou focar na questão da apresentação da área de destaque, que pode ser resolvida com mudanças na interface.
 
 ### Demonstração de uma possível navegação simples do usuário, focado nos botões de destaque
-
-<video controls>
-  <source src="assets/video_ze.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![vídeo](https://github.com/Rezende00/Inteli-M10/blob/main/src/Atividade%20de%20UX/assets/video_ze.mp4)
 
 ### Mudanças efetuadas na interface - **Arquitetura de Informação**
 
